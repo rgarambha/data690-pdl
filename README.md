@@ -12,3 +12,5 @@ Limitation of Google colab:
 - no way to restore the output
 
 I have a decent system which can train more than 2 models simultaneously. So, I train them on my system save results using torch.save(), I am maintainig this repo to keep it organized and then importing into colab to show plots and results.  
+
+Future update: adding encryption so that public repo can't be misused.
